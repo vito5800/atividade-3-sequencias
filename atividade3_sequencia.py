@@ -15,7 +15,7 @@ print()
 
 # d) 4, 16, 36, 64, __
 print("\nd) 4, 16, 36, 64, __")
-print("quadrado dos nº pares em ordem crescente (2x2, 4x4, 6x6...)\npróximo número da sequencia é:",8**2)
+print("quadrado dos nº pares em ordem crescente (2x2, 4x4, 6x6, 8x8...)\npróximo número da sequencia é:",10**2)
 print()
 
 # e) 1,1,2,3,5,8, __
